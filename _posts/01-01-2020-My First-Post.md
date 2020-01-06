@@ -7,4 +7,4 @@ categories: jekyll update
 
 # Hi There
 
-This is fun.
+This is fun. sort of.
