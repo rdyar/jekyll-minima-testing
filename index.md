@@ -7,3 +7,7 @@ layout: home
 ## This is the home page.
 
 Hi there.
+
+{% for item in site.posts %}
+{{item.title}}
+{% endfor %}
