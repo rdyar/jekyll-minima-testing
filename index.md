@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## This is the home page.
+## This is the home page 2.
 
 Hi there.
 
