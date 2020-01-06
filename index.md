@@ -1,5 +1,6 @@
 ---
 layout: home
+title: super cool title here
 ---
 
 ## This is the home page 2.
