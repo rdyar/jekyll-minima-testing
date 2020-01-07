@@ -17,7 +17,7 @@ print_hi('Tom')
 
 Like many programming languages Python's first function is that of a calculator. 
 
-```Python
+```python
 1 + 1 # Adding two numbers
 
 ```
