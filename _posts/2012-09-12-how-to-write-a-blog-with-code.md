@@ -25,7 +25,7 @@ Like many programming languages Python's first function is that of a calculator.
 This will return 2 since Python, like most programming languages functions as a cluculator first. You can also see that anything following a hashtag is a comment which means it will not be executed. There are other basic calculator function included as well.
 
 
-```Python3
+```python
 1 - 1  # Subtraction 1 minus 1
 2 * 2  # Multiplication 2 times 2
 4 / 2  # Division 4 divided by 2
@@ -35,7 +35,7 @@ This will return 2 since Python, like most programming languages functions as a 
 
 There are also more complicated calculator functions built into the the python framework.
 
-```Python3
+```python
 7 % 3  # Modulus ( Which divides and returns the remainder [ in this case 1 ] ) 
 7 // 2 # Floor Division ( Which divides and rounds down [ in this case 3 ] )
 
