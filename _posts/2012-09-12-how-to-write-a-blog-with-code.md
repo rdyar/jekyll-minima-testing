@@ -14,6 +14,7 @@ print_hi('Tom')
 
 {% highlight javascript %}
 <script>
- JavaScript code goes here
+  var a=2;
+  console.log(a)
 </script>
 {% endhighlight %}
