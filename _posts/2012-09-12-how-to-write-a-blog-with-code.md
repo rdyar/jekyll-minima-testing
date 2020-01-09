@@ -12,12 +12,8 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
 
-## Python 
-### Python is a calculator first
-
-Like many programming languages Python's first function is that of a calculator. 
-
-```python
-1 + 1 # Adding two numbers
-
-```
+{% highlight javascript %}
+<script>
+ JavaScript code goes here
+</script>
+{% endhighlight %}
